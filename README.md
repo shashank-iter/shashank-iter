@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashank Pandey
-- 👀 I’m interested in Problem Solving, Data Strutures, Web Development and Andriod Development.
+- 👀 I’m interested in Problem Solving, Data Strutures, Web Development and Android Development.
 - 🌱 I’m currently learning Java, WebD and DSA.
 - 💞️ I’m looking to collaborate on Full Stack Projects and New Ideas.
 - 📫 Reach me on Linkedin 
