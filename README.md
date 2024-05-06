@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer working on JavaScript technologies like React JS and Next JS.   
+## I am a Full Stack Developer working on JavaScript technologies like React JS/ Next JS/ Node JS/ Express JS.  
 
 
 ## 🌐 Socials:
